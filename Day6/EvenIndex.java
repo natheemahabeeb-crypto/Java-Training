@@ -1,5 +1,6 @@
 package Day6;
 
+
 public class EvenIndex {
     
     public static void main(String[] args) {
