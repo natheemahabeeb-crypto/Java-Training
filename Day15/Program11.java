@@ -23,6 +23,7 @@ class Computer1{
 }
 
 public class Program11{
+    
     public static void main(String[] args){
         Computer1 c=new Computer1(new Laser1());
         c.start();
